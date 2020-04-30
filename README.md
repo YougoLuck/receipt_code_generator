@@ -1,0 +1,1 @@
+# receipt_code_generator
